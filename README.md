@@ -28,9 +28,9 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [Learn You Some Erlang](https://learnyousomeerlang.com/contentsLinks)
+* [Erlang Tutorial](https://www.tutorialspoint.com/erlang/index.htm)
+* [Erlang (Programming Language)](https://en.wikipedia.org/wiki/Erlang_(programming_language))
 
 ## Future Work
 
