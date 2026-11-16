@@ -1,4 +1,4 @@
-# Project Title - W10 Sprint Module - GIS Mapping
+# Project Title - W10 Sprint Module - Erlang
 
 Add a description of your project here.
 
